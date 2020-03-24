@@ -2,8 +2,8 @@
 # https://github.com/nicksp/dotfiles/blob/master/git/gitconfig
 
 [user]
-        name = Xuan Huang
-        email = huxpro@gmail.com
+	name = Sherry Wu
+	email = xuechunwu992@gmail.com
 
 [core]
         editor = vim
